@@ -1,0 +1,28 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.container {
+	background-color: skyblue;
+}
+input {
+	height: 50px;
+    width: 200px;
+}
+
+button {
+	height: 50px;
+}
+
+#intx {
+	font-size: 30px;
+}
+
+#inty {
+	font-size: 30px;
+}
+
+#answer {
+	font-size: 30px;
+}
